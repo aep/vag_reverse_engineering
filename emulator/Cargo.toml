@@ -1,0 +1,8 @@
+[package]
+name = "emulator"
+version = "0.1.0"
+authors = ["Arvid E. Picciani <aep@exys.org>"]
+edition = "2018"
+
+[dependencies]
+socketcan = "*"

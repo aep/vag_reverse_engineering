@@ -1,0 +1,8 @@
+Modules v1.1, Jan, 2004
+========================
+
+Fixes:
+=====
+1. Modified ECANPoll (v1.1) to correct some compile-time errors.
+2. Added A1 silicon workaround for FIFONOTEMPTY issue.
+3. Renamed "ECAN.*" to "ECANPoll.*" to be conistent with naming convention.
